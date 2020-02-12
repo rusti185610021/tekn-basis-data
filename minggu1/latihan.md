@@ -1,3 +1,4 @@
+# tekn-basis-data
 # basis data
 # latihan 1
 Pada latihan pada praktikum 1 ini langkah awal yang dipelajari yaitu menginstall aplikasi mariaDB atau MySQL shell, disini saya memilih MariaDB untuk mengaplikasikan suatu data dalam database dan sistem operasi yang digunakan yakni windows 10.
