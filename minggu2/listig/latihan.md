@@ -11,11 +11,11 @@ Klik tombol next, untuk melanjutkan instalasi.
 
 Centang box “i accept the terms in the license agreement” kemudian klik next untuk melanjutkan instalasi.
 
-![Screenshot(2)](Screenshot(2).png)
+![Screenshot(2)](2.png)
 
 Klik Tombol Complate  karna kita akan meletakan instalasi mongodb pada partisi C:
 
-![Screenshot(3)](Screenshot(3).png)
+![Screenshot(3)](3.png)
 
 klik tombol browse untuk mengubah lokasi default instalasi
 Anda dapat menentukan dimana saja lokasi instalasi mongodb yang anda inginkan. Namun untuk tutorial kali ini saya meletakan di partisi C:
