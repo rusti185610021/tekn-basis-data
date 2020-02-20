@@ -7,7 +7,7 @@ Langkah 2 — Install MongoDB
 Setelah mendownload MongoDB. Kemudian klik kanan package yang telah di download dan pilih Instal. Atau anda dapat melakukannya dengan cara double klik.
 Klik tombol next, untuk melanjutkan instalasi.
 
-![Screenshot(1)](Screenshot(1).png)
+![Screenshot(1)](1.png)
 
 Centang box “i accept the terms in the license agreement” kemudian klik next untuk melanjutkan instalasi.
 
